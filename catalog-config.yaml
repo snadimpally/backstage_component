@@ -8,5 +8,5 @@ metadata:
     github.com/project-slug: anskrish/backstage-component
 spec:
   type: service
-  owner: user:anskrish
+  owner: user:sue
   lifecycle: experimental
