@@ -5,7 +5,7 @@ metadata:
   title: Sample Service # optional, human readable component name
   description: My first Backstage catalog item.
   annotations:
-    github.com/project-slug: anskrish/backstage-component
+    github.com/project-slug: snadimpally/backstage_component
 spec:
   type: service
   owner: user:sue
